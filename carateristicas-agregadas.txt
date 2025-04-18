@@ -1,0 +1,61 @@
+Características Implementadas
+
+Componentes Avanzados:
+
+Diodos y transistores BJT añadidos
+
+Modelos de impedancia no lineal
+
+Análisis de Fourier:
+
+Transformada rápida de Fourier (FFT)
+
+Cálculo de THD (Distorsión Armónica Total)
+
+Visualización de armónicos
+
+Exportación de Resultados:
+
+CSV para datos numéricos
+
+JSON para datos estructurados
+
+PNG para gráficos
+
+Manejo Mejorado de Conexiones:
+
+Sistema de seguimiento de conexiones
+
+Verificación de nodos flotantes
+
+Detección de conexiones incorrectas
+
+Cálculo de Potencia:
+
+Potencia instantánea, promedio y aparente
+
+Valores RMS de voltaje y corriente
+
+Factor de potencia para componentes reactivos
+
+Interfaz Gráfica Mejorada:
+
+Barra de herramientas con iconos
+
+Pestañas para diferentes análisis
+
+Navegación de gráficos interactiva
+
+toca agreegar 
+
+def deshacer_accion(self):
+        # Implementar lógica para deshacer
+        pass
+        
+    def rehacer_accion(self):
+        # Implementar lógica para rehacer
+        pass
+        
+    def eliminar_seleccionado(self):
+        # Implementar lógica para eliminar componente seleccionado
+        pass

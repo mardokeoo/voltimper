@@ -1,0 +1,10 @@
+   aqui en esta carpeta van las imagenes  
+    |-- resistor.png
+    ├── dc_source.png
+    ├── ac_source.png
+    ├── capacitor.png
+    ├── inductor.png
+    ├── diode.png
+    ├── transistor.png
+    ├── ground.png
+    └── wire.png
